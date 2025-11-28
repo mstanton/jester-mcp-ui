@@ -1,0 +1,5 @@
+{
+  "name": "Ollama Jester Studio",
+  "description": "A web-based adaptation of the Jester workflow. Connects to your local Ollama instance to analyze code, tests, and error logs, providing AI-driven fixes and iterations.",
+  "requestFramePermissions": []
+}
